@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: 007rahu/nodejs-app:latest
+          tags: 007rahul/nodejs-app:latest
 
